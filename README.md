@@ -1,6 +1,16 @@
-Experiment 18 Aim: To study statistical and specialized data visualization techniques using Python libraries.
+# NAME: Dhruv Patil
 
-Theory: Data Visualization: It is the graphical representation of data to understand patterns, trends, and relationships easily.
+# PRN: 25070123146
+
+# Experiment 18
+
+## Aim:
+
+To study statistical and specialized data visualization techniques using Python libraries.
+
+## Theory:
+
+Data Visualization: It is the graphical representation of data to understand patterns, trends, and relationships easily.
 
 Matplotlib: A Python library used for creating static, animated, and interactive visualizations.
 
@@ -56,4 +66,6 @@ edgecolor: Used to highlight boundaries of histogram bars.
 
 Colorbar: Used to show scale of colors in plots.
 
-Conclusion: This experiment helped in understanding various statistical and advanced visualization techniques. It improved the ability to represent data using different graphs like histogram, boxplot, and heatmap. It also provided knowledge about identifying patterns, correlations, and outliers effectively.
+## Conclusion:
+
+This experiment helped in understanding various statistical and advanced visualization techniques. It improved the ability to represent data using different graphs like histogram, boxplot, and heatmap. It also provided knowledge about identifying patterns, correlations, and outliers effectively.
